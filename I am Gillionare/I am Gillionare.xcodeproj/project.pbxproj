@@ -1,0 +1,572 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		6FFCAFD72D190A100079BDAD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6FFCAFB82D190A0D0079BDAD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6FFCAFBF2D190A0D0079BDAD;
+			remoteInfo = "I am Gillionare";
+		};
+		6FFCAFE12D190A100079BDAD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6FFCAFB82D190A0D0079BDAD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6FFCAFBF2D190A0D0079BDAD;
+			remoteInfo = "I am Gillionare";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6FFCAFC02D190A0D0079BDAD /* I am Gillionare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Gillionare.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6FFCAFD62D190A100079BDAD /* I am GillionareTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am GillionareTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6FFCAFE02D190A100079BDAD /* I am GillionareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am GillionareUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		6FFCAFE82D190A100079BDAD /* Exceptions for "I am Gillionare" folder in "I am Gillionare" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 6FFCAFBF2D190A0D0079BDAD /* I am Gillionare */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		6FFCAFC22D190A0D0079BDAD /* I am Gillionare */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				6FFCAFE82D190A100079BDAD /* Exceptions for "I am Gillionare" folder in "I am Gillionare" target */,
+			);
+			path = "I am Gillionare";
+			sourceTree = "<group>";
+		};
+		6FFCAFD92D190A100079BDAD /* I am GillionareTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "I am GillionareTests";
+			sourceTree = "<group>";
+		};
+		6FFCAFE32D190A100079BDAD /* I am GillionareUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "I am GillionareUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6FFCAFBD2D190A0D0079BDAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6FFCAFD32D190A100079BDAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6FFCAFDD2D190A100079BDAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6FFCAFB72D190A0D0079BDAD = {
+			isa = PBXGroup;
+			children = (
+				6FFCAFC22D190A0D0079BDAD /* I am Gillionare */,
+				6FFCAFD92D190A100079BDAD /* I am GillionareTests */,
+				6FFCAFE32D190A100079BDAD /* I am GillionareUITests */,
+				6FFCAFC12D190A0D0079BDAD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6FFCAFC12D190A0D0079BDAD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6FFCAFC02D190A0D0079BDAD /* I am Gillionare.app */,
+				6FFCAFD62D190A100079BDAD /* I am GillionareTests.xctest */,
+				6FFCAFE02D190A100079BDAD /* I am GillionareUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6FFCAFBF2D190A0D0079BDAD /* I am Gillionare */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6FFCAFE92D190A100079BDAD /* Build configuration list for PBXNativeTarget "I am Gillionare" */;
+			buildPhases = (
+				6FFCAFBC2D190A0D0079BDAD /* Sources */,
+				6FFCAFBD2D190A0D0079BDAD /* Frameworks */,
+				6FFCAFBE2D190A0D0079BDAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				6FFCAFC22D190A0D0079BDAD /* I am Gillionare */,
+			);
+			name = "I am Gillionare";
+			packageProductDependencies = (
+			);
+			productName = "I am Gillionare";
+			productReference = 6FFCAFC02D190A0D0079BDAD /* I am Gillionare.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6FFCAFD52D190A100079BDAD /* I am GillionareTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6FFCAFEE2D190A100079BDAD /* Build configuration list for PBXNativeTarget "I am GillionareTests" */;
+			buildPhases = (
+				6FFCAFD22D190A100079BDAD /* Sources */,
+				6FFCAFD32D190A100079BDAD /* Frameworks */,
+				6FFCAFD42D190A100079BDAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6FFCAFD82D190A100079BDAD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				6FFCAFD92D190A100079BDAD /* I am GillionareTests */,
+			);
+			name = "I am GillionareTests";
+			packageProductDependencies = (
+			);
+			productName = "I am GillionareTests";
+			productReference = 6FFCAFD62D190A100079BDAD /* I am GillionareTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6FFCAFDF2D190A100079BDAD /* I am GillionareUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6FFCAFF12D190A100079BDAD /* Build configuration list for PBXNativeTarget "I am GillionareUITests" */;
+			buildPhases = (
+				6FFCAFDC2D190A100079BDAD /* Sources */,
+				6FFCAFDD2D190A100079BDAD /* Frameworks */,
+				6FFCAFDE2D190A100079BDAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6FFCAFE22D190A100079BDAD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				6FFCAFE32D190A100079BDAD /* I am GillionareUITests */,
+			);
+			name = "I am GillionareUITests";
+			packageProductDependencies = (
+			);
+			productName = "I am GillionareUITests";
+			productReference = 6FFCAFE02D190A100079BDAD /* I am GillionareUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6FFCAFB82D190A0D0079BDAD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					6FFCAFBF2D190A0D0079BDAD = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					6FFCAFD52D190A100079BDAD = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 6FFCAFBF2D190A0D0079BDAD;
+					};
+					6FFCAFDF2D190A100079BDAD = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 6FFCAFBF2D190A0D0079BDAD;
+					};
+				};
+			};
+			buildConfigurationList = 6FFCAFBB2D190A0D0079BDAD /* Build configuration list for PBXProject "I am Gillionare" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6FFCAFB72D190A0D0079BDAD;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 6FFCAFC12D190A0D0079BDAD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6FFCAFBF2D190A0D0079BDAD /* I am Gillionare */,
+				6FFCAFD52D190A100079BDAD /* I am GillionareTests */,
+				6FFCAFDF2D190A100079BDAD /* I am GillionareUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6FFCAFBE2D190A0D0079BDAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6FFCAFD42D190A100079BDAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6FFCAFDE2D190A100079BDAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6FFCAFBC2D190A0D0079BDAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6FFCAFD22D190A100079BDAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6FFCAFDC2D190A100079BDAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6FFCAFD82D190A100079BDAD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6FFCAFBF2D190A0D0079BDAD /* I am Gillionare */;
+			targetProxy = 6FFCAFD72D190A100079BDAD /* PBXContainerItemProxy */;
+		};
+		6FFCAFE22D190A100079BDAD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6FFCAFBF2D190A0D0079BDAD /* I am Gillionare */;
+			targetProxy = 6FFCAFE12D190A100079BDAD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6FFCAFEA2D190A100079BDAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2U7T9YF942;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "I am Gillionare/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.gmail.morais.caioa.I-am-Gillionare";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6FFCAFEB2D190A100079BDAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2U7T9YF942;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "I am Gillionare/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.gmail.morais.caioa.I-am-Gillionare";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		6FFCAFEC2D190A100079BDAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6FFCAFED2D190A100079BDAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6FFCAFEF2D190A100079BDAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.gmail.morais.caioa.I-am-GillionareTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I am Gillionare.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/I am Gillionare";
+			};
+			name = Debug;
+		};
+		6FFCAFF02D190A100079BDAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.gmail.morais.caioa.I-am-GillionareTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I am Gillionare.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/I am Gillionare";
+			};
+			name = Release;
+		};
+		6FFCAFF22D190A100079BDAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.gmail.morais.caioa.I-am-GillionareUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "I am Gillionare";
+			};
+			name = Debug;
+		};
+		6FFCAFF32D190A100079BDAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.gmail.morais.caioa.I-am-GillionareUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "I am Gillionare";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6FFCAFBB2D190A0D0079BDAD /* Build configuration list for PBXProject "I am Gillionare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6FFCAFEC2D190A100079BDAD /* Debug */,
+				6FFCAFED2D190A100079BDAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6FFCAFE92D190A100079BDAD /* Build configuration list for PBXNativeTarget "I am Gillionare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6FFCAFEA2D190A100079BDAD /* Debug */,
+				6FFCAFEB2D190A100079BDAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6FFCAFEE2D190A100079BDAD /* Build configuration list for PBXNativeTarget "I am GillionareTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6FFCAFEF2D190A100079BDAD /* Debug */,
+				6FFCAFF02D190A100079BDAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6FFCAFF12D190A100079BDAD /* Build configuration list for PBXNativeTarget "I am GillionareUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6FFCAFF22D190A100079BDAD /* Debug */,
+				6FFCAFF32D190A100079BDAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6FFCAFB82D190A0D0079BDAD /* Project object */;
+}
